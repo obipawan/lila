@@ -12,20 +12,18 @@
     "@tamagui/config": "^1.132.12",
     "@tamagui/core": "^1.132.12",
     "@tamagui/polyfill-dev": "^1.132.12",
-    "next": "15.4.3",
+    "next": "15.4.4",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
     "@tamagui/next-plugin": "^1.132.12",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "browserslist-config-baseline": "^0.4.0",
     "eslint": "^9",
-    "eslint-config-next": "15.4.3",
+    "eslint-config-next": "15.4.4",
     "typescript": "^5"
-  },
-  "browserslist": "extends browserslist-config-baseline"
+  }
 }
