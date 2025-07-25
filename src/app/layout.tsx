@@ -1,9 +1,6 @@
-import localFont from 'next/font/local'
 import type { Metadata } from "next";
 import { NextTamaguiProvider } from "./NextTamaguiProvider";
-
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-const openSans = localFont({ src: '../../public/open_sans.woff2', preload: true, display: 'optional' })
+import './font.css';
 
 export const metadata: Metadata = {
   title: "Create Next App",
